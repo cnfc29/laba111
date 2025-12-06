@@ -5,3 +5,5 @@ if (a == 5) {
 } else {
   console.log("a is not 5");
 }
+
+console.log("Hello from index.js");
