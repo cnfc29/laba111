@@ -1,4 +1,4 @@
-let b = "Hello";
+let b = "Hello!!";
 
 if (typeof b == "string") {
   console.log("b is a string");
