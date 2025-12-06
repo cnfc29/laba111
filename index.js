@@ -7,3 +7,4 @@ if (a == 5) {
 }
 
 console.log("Hello from index.js");
+console.log('Bay bay');
