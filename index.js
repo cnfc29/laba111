@@ -7,5 +7,5 @@ if (a == 4) {
 }
 
 console.log("Hello from index.js");
-console.log('Bay bay');
-console.log('4')
+console.log('Bay bay!!');
+console.log('4!')
